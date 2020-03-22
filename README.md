@@ -12,7 +12,9 @@ Compound Options allows you to configure some options for a new monument "Compou
 
 ### Notes
 
-For first run plugin automatically make data/CompoundOptions.json with defaults (in-game). You can manually change fields in this file and reload plugin to apply.
+For first run, the plugin automatically creates data/CompoundOptions.json with defaults (in-game). You can manually change fields in this file and reload plugin to apply.
+
+On every server load, the plugin automatically creates data/CompoundOptions.json with the server default vending machine configuration.
 
 Then we can see array of fields, where:
 

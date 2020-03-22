@@ -4,11 +4,11 @@ Compound Options allows you to configure some options for a new monument "Compou
 
 ### Features
 
-    Configure sell prices and lists for vending machines (via data/CompoundOptions.json)
-    Disable Compound SafeZone trigger (attack player when enter to area with loaded gun or attack any NPC), defaults - off
-    Disable Compound Turrets, defaults - off
-    Disallow Compound NPC (for rollback need restart server/respawn npc), defaults - off
-    Disable Compound vending machines, defaults - off (for rollback if switched 'on' need restart server)
+   Configure sell prices and lists for vending machines (via data/CompoundOptions.json)
+   Disable Compound SafeZone trigger (attack player when enter to area with loaded gun or attack any NPC), defaults - off
+   Disable Compound Turrets, defaults - off
+   Disallow Compound NPC (for rollback need restart server/respawn npc), defaults - off
+   Disable Compound vending machines, defaults - off (for rollback if switched 'on' need restart server)
 
 ### Notes
 
